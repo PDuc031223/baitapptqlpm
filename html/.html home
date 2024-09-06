@@ -2,11 +2,959 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=  , initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <base href="https://www.w3schools.com/" target="_blank">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
-    <h1>This is a Heading: PhamAnhDuc_2121051327</h1>
-    <p>This is a paragraph: PhamAnhDuc_2121051327.</p>
+    <div class="Home">
+    <h1>This is a Heading: PhamAnhDuc-2121051327</h1>
+<p>This is a paragraph: PhamAnhDuc-2121051327</p>
+</div>
+
+<div class="HTML Introduction">
+<h1>My First Heading: PhamAnhDuc-2121051327</h1>
+<p>My first paragraph.: PhamAnhDuc-2121051327</p>
+</div>
+
+
+<div class="HTML Editors">
+<h1>This is a Heading: PhamAnhDuc-2121051327</h1>
+<p>This is a paragraph.: PhamAnhDuc-2121051327</p>
+
+<div class="HTML Basic Examples"></div>
+<h2>HTML Images: PhamAnhDuc-2121051327</h2>
+<p>HTML images are defined with the img tag:: PhamAnhDuc-2121051327</p>
+
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+
+<div class="HTML Elements">
+<p>This is a <br> paragraph with a line break.: PhamAnhDuc-2121051327</p>
+</div>
+
+<div class="HTML Attributes"></div>
+<h2>Single or Double Quotes?: PhamAnhDuc-2121051327</h2>
+<p>In some situations, when the attribute value itself contains double quotes, it is necessary to use single quotes:: PhamAnhDuc-2121051327</p>
+<p>Move your mouse over the paragraphs below to see the effect:: PhamAnhDuc-2121051327</p>
+
+<p title='John "ShotGun" Nelson'>John with double quotes: PhamAnhDuc-2121051327</p>
+<p title="John 'ShotGun' Nelson">John with single quotes: PhamAnhDuc-2121051327</p>
+</div>
+
+<div class="HTML Headings"><h1 style="font-size:60px;">Heading 1: PhamAnhDuc-2121051327</h1>
+
+    <p>You can change the size of a heading with the style attribute, using the font-size property.: PhamAnhDuc-2121051327</p></div>
+
+<div class="HTML Paragraphs"><p>The pre tag preserves both spaces and line breaks:: PhamAnhDuc-2121051327</p>
+
+    <pre>
+       My Bonnie lies over the ocean.
+    
+       My Bonnie lies over the sea.
+    
+       My Bonnie lies over the ocean.
+       
+       Oh, bring back my Bonnie to me.: PhamAnhDuc-2121051327
+    </pre></div>
+
+<div class="HTML Styles"><h1 style="text-align:center;">Centered Heading: PhamAnhDuc-2121051327</h1>
+    <p style="text-align:center;">Centered paragraph.: PhamAnhDuc-2121051327</p></div>
+
+<div class="HTML Text Formatting"><p>This is <sup>superscripted</sup> text.: PhamAnhDuc-2121051327</p></div>
+
+<div class="HTML Quotation and Citation Elements"><p>Here is a quote from WWF's website:<: PhamAnhDuc-2121051327/p>
+
+    <blockquote cite="http://www.worldwildlife.org/who/index.html">
+    For 60 years, WWF has worked to help people and nature thrive. As the world's leading conservation organization, WWF works in nearly 100 countries. At every level, we collaborate with people around the world to develop and deliver innovative solutions that protect communities, wildlife, and the places in which they live.
+    : PhamAnhDuc-2121051327</blockquote></div>
+
+<div class="HTML Comments"><p>This is a paragraph.: PhamAnhDuc-2121051327</p>
+    <!--
+    <p>Look at this cool image:</p>
+    <img border="0" src="pic_trulli.jpg" alt="Trulli">
+    -->
+    <p>This is a paragraph too: PhamAnhDuc-2121051327.</p></div>
+
+<div class="HTML Colors"><p>Same as color name "Tomato":: PhamAnhDuc-2121051327</p>
+
+    <h1 style="background-color:rgb(255, 99, 71);">rgb(255, 99, 71): PhamAnhDuc-2121051327</h1>
+    <h1 style="background-color:#ff6347;">#ff6347: PhamAnhDuc-2121051327</h1>
+    <h1 style="background-color:hsl(9, 100%, 64%);">hsl(9, 100%, 64%): PhamAnhDuc-21210513274</h1>
+    
+    <p>Same as color name "Tomato", but 50% transparent:</p>
+    <h1 style="background-color:rgba(255, 99, 71, 0.5);">rgba(255, 99, 71, 0.5): PhamAnhDuc-2121051327</h1>
+    <h1 style="background-color:hsla(9, 100%, 64%, 0.5);">hsla(9, 100%, 64%, 0.5): PhamAnhDuc-2121051327</h1>
+    
+    <p>In addition to the predefined color names, colors can be specified using RGB, HEX, HSL, or even transparent colors using RGBA or HSLA color values.: PhamAnhDuc-2121051327</p></div>
+
+<div class="HTML Styles - CSS">
+    <h1 style="color:blue;">A Blue Heading: PhamAnhDuc-2121051327</h1>
+
+<p style="color:red;">A red paragraph: PhamAnhDuc-2121051327.</p>
+</div>
+
+<div class="HTML Links">
+    <h2>The target Attribute: PhamAnhDuc-2121051327</h2>
+
+<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!: PhamAnhDuc-2121051327</a> 
+
+<p>If target="_blank", the link will open in a new browser window or tab.: PhamAnhDuc-2121051327</p>
+</div>
+
+<div class="HTML Link Colors" style=" a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }"><h2>Link Colors</h2>
+
+<p>You can change the default colors of links: PhamAnhDuc-2121051327</p>
+
+<a href="html_images.asp" target="_blank">HTML Images: PhamAnhDuc-2121051327</a>
+    </div>
+
+<div class="HTML Links - Create Bookmarks">
+    <p><a href="#C4">Jump to Chapter 4: PhamAnhDuc-2121051327</a></p>
+<p><a href="#C10">Jump to Chapter 10: PhamAnhDuc-2121051327</a></p>
+
+<h2>Chapter 1: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 2: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 3: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2 id="C4">Chapter 4: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 5: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 6: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 7: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 8: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 9: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2 id="C10">Chapter 10: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 11: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 12: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 13: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 14: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 15: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 16: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 17: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 18: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 19: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 20: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 21: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 22: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+
+<h2>Chapter 23: PhamAnhDuc-2121051327</h2>
+<p>This chapter explains ba bla bla: PhamAnhDuc-2121051327</p>
+</div>
+
+<div class="HTML Images">
+    <h2>Floating Images: PhamAnhDuc-2121051327</h2>
+<p><strong>Float the image to the right:: PhamAnhDuc-2121051327</strong></p>
+
+<p>
+<img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
+A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image.:PhamAnhDuc-2121051327
+</p>
+
+<p><strong>Float the image to the left:: PhamAnhDuc-2121051327</strong></p>
+<p>
+<img src="smiley.gif" alt="Smiley face" style="float:left;width:42px;height:42px;">
+A paragraph with a floating image. A paragraph with a floating image. A paragraph with a floating image. : PhamAnhDuc-2121051327 
+</p>
+</div>
+
+<div class="HTML Image Maps">
+    <h2>Image Maps: PhamAnhDuc-2121051327</h2>
+
+<p>Click on the cup of coffee to execute a JavaScript function:: PhamAnhDuc-2121051327</p>
+
+<img src="workplace.jpg" alt="Workplace" usemap="#workmap" width="400" height="379">
+
+<map name="workmap">
+  <area shape="circle" coords="337,300,44" href="coffee.htm" onclick="myFunction()">
+</map>
+
+<script>
+function myFunction() {
+  alert("You clicked the coffee cup!");
+}
+</script>
+
+</div>
+
+<div class="HTML Background Images" style="body {
+    background-image: url('img_girl.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+  }"><h2>Background Stretch</h2>
+
+<p>Set the background-size property to "100% 100%" and the background image will be stretched to cover the entire element, in this case the body element.</p>
+: PhamAnhDuc-21210513274</div>
+
+<div class="HTML picture Element"><h2>The picture Element: PhamAnhDuc-2121051327</h2>
+
+    <picture>
+      <source srcset="img_avatar.png">
+      <source srcset="img_girl.jpg">
+      <img src="img_beatles.gif" alt="Beatles" style="width:auto;">
+    </picture>
+    
+    <p>The picture element can be used when the image format is not supported by all devices.: PhamAnhDuc-2121051327</p>
+    
+    <p>The device will use the first image format it supports, and ignore the rest of the images.: PhamAnhDuc-2121051327</p></div>
+
+<div class="HTML Favicon"></div>
+
+<div class="HTML Page Title"></div>
+
+<div class="HTML Tables" style="table, th, td {
+  border:1px solid black;
+}"><h2>TH elements define table headers: PhamAnhDuc-2121051327</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Person 1: PhamAnhDuc-2121051327</th>
+    <th>Person 2: PhamAnhDuc-2121051327</th>
+    <th>Person 3: PhamAnhDuc-2121051327</th>
+  </tr>
+  <tr>
+    <td>Emil: PhamAnhDuc-2121051327</td>
+    <td>Tobias: PhamAnhDuc-2121051327</td>
+    <td>Linus: PhamAnhDuc-21210513274</td>
+  </tr>
+  <tr>
+    <td>16: PhamAnhDuc-2121051327</td>
+    <td>14: PhamAnhDuc-2121051327</td>
+    <td>10: PhamAnhDuc-2121051327</td>
+  </tr>
+</table>
+
+<p>To understand the example better, we have added borders to the table.: PhamAnhDuc-2121051327</p></div>
+
+<div class="HTML Table Borders" style="th, td {
+    border-style:solid;
+    border-color: #96D4D4;
+  }">
+  <h2>Table With Border Color: PhamAnhDuc-2121051327</h2>
+
+  <p>Use the CSS border-color property to set the color of the borders.: PhamAnhDuc-2121051327</p>
+  
+  <table style="width:100%">
+    <tr>
+      <th>Firstname:PhamAnhDuc-2121051327</th>
+      <th>Lastname: PhamAnhDuc-2121051327</th> 
+      <th>Age: PhamAnhDuc-2121051327</th>
+    </tr>
+    <tr>
+      <td>Jill: PhamAnhDuc-2121051327</td>
+      <td>Smith: PhamAnhDuc-2121051327</td>
+      <td>50: PhamAnhDuc-2121051327</td>
+    </tr>
+    <tr>
+      <td>Eve: PhamAnhDuc-2121051327</td>
+      <td>Jackson: PhamAnhDuc-2121051327</td>
+      <td>94: PhamAnhDuc-2121051327</td>
+    </tr>
+    <tr>
+      <td>John: PhamAnhDuc-2121051327</td>
+      <td>Doe: PhamAnhDuc-2121051327</td>
+      <td>80: PhamAnhDuc-2121051327</td>
+    </tr>
+  </table></div>
+
+<div class="HTML Table Sizes" style="table, th, td {
+    border:1px solid black;
+    border-collapse: collapse;
+  }">
+    
+<h2>Set the height of the second row to 200 pixels:PhamAnhDuc-2121051327</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname: PhamAnhDuc-2121051327</th>
+    <th>Lastname: PhamAnhDuc-2121051327</th> 
+    <th>Age: PhamAnhDuc-2121051327</th>
+  </tr>
+  <tr style="height:200px">
+    <td>Jil: PhamAnhDuc-2121051327</td>
+    <td>Smith: PhamAnhDuc-2121051327</td>
+    <td>50: PhamAnhDuc-2121051327</td>
+  </tr>
+  <tr>
+    <td>Eve: PhamAnhDuc-2121051327</td>
+    <td>Jackson: PhamAnhDuc-21210513274</td>
+    <td>94: PhamAnhDuc-2121051327</td>
+  </tr>
+  <tr>
+    <td>John: PhamAnhDuc-2121051327</td>
+    <td>Doe: PhamAnhDuc-2121051327</td>
+    <td>80: PhamAnhDuc-2121051327</td>
+  </tr>
+</table>
+</div>
+
+<div class="HTML Table Headers" style="table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 5px;
+    text-align: left;
+  }">
+  <h2>Table Caption</h2>
+  <p>To add a caption to a table, use the caption tag.: PhamAnhDuc-2121051327</p>
+  
+  <table style="width:100%">
+    <caption>Monthly savings: PhamAnhDuc-2121051327</caption>
+    <tr>
+      <th>Month: PhamAnhDuc-2121051327</th>
+      <th>Savings: PhamAnhDuc-2121051327</th>
+    </tr>
+    <tr>
+      <td>January: PhamAnhDuc-2121051327</td>
+      <td>$100: PhamAnhDuc-2121051327</td>
+    </tr>
+    <tr>
+      <td>February: PhamAnhDuc-2121051327</td>
+      <td>$50: PhamAnhDuc-2121051327</td>
+    </tr>
+  </table></div>
+
+<div class="HTML Table Padding & Spacing" style="table, th, td {
+    border: 1px solid black;
+  }
+  table {
+    border-spacing: 30px;
+  }">
+  <h2>Cellspacing: PhamAnhDuc-2121051327</h2>
+  <p>Change the space between the cells with the border-spacing property.: PhamAnhDuc-2121051327</p>
+  
+  <table style="width:100%">
+    <tr>
+      <th>Firstname: PhamAnhDuc-2121051327</th>
+      <th>Lastname: PhamAnhDuc-2121051327</th> 
+      <th>Age: PhamAnhDuc-2121051327</th>
+    </tr>
+    <tr>
+      <td>Jill: PhamAnhDuc-2121051327</td>
+      <td>Smith: PhamAnhDuc-2121051327</td>
+      <td>50: PhamAnhDuc-2121051327</td>
+    </tr>
+    <tr>
+      <td>Eve: PhamAnhDuc-2121051327</td>
+      <td>Jackson: PhamAnhDuc-2121051327</td>
+      <td>94: PhamAnhDuc-2121051327</td>
+    </tr>
+    <tr>
+      <td>John: PhamAnhDuc-2121051327</td>
+      <td>Doe: PhamAnhDuc-2121051327</td>
+      <td>80: PhamAnhDuc-2121051327</td>
+    </tr>
+  </table></div>
+
+<div class="HTML Table Colspan & Rowspan" style="table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }">
+  <h2>Cell that spans two rows: PhamAnhDuc-2121051327</h2>
+  <p>To make a cell span more than one row, use the rowspan attribute.: PhamAnhDuc-2121051327</p>
+  
+  <table style="width:100%">
+    <tr>
+      <th>Name: PhamAnhDuc-2121051327</th>
+      <td>Jil: PhamAnhDuc-2121051327</td>
+    </tr>
+    <tr>
+      <th rowspan="2">Phone: PhamAnhDuc-2121051327</th>
+      <td>555-1234: PhamAnhDuc-2121051327</td>
+    </tr>
+    <tr>
+      <td>555-8745: PhamAnhDuc-2121051327</td>
+    </tr>
+  </table></div>
+
+<div class="HTML Table Styling" style="table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  tr {
+    border-bottom: 1px solid #ddd;
+  }">
+  <h2>Bordered Table Dividers: PhamAnhDuc-2121051327</h2>
+  <p>Add the border-bottom property to the tr elements for horizontal dividers:: PhamAnhDuc-2121051327</p>
+  
+  <table>
+    <tr>
+      <th>Firstname: PhamAnhDuc-2121051327</th>
+      <th>Lastname: PhamAnhDuc-2121051327</th>
+    <th>Savings: PhamAnhDuc-2121051327</th>
+    </tr>
+    <tr>
+      <td>Peter: PhamAnhDuc-2121051327</td>
+      <td>Griffin: PhamAnhDuc-2121051327</td>
+      <td>$100: PhamAnhDuc-2121051327</td>
+    </tr>
+    <tr>
+      <td>Lois: PhamAnhDuc-2121051327</td>
+      <td>Griffin: PhamAnhDuc-2121051327</td>
+      <td>$150: PhamAnhDuc-2121051327</td>
+    </tr>
+    <tr>
+      <td>Joe: PhamAnhDuc-2121051327</td>
+      <td>Swanson: PhamAnhDuc-2121051327</td>
+      <td>$300: PhamAnhDuc-2121051327</td>
+    </tr>
+    <tr>
+      <td>Cleveland: PhamAnhDuc-2121051327</td>
+      <td>Brown: PhamAnhDuc-2121051327</td>
+      <td>$250: PhamAnhDuc-2121051327</td>
+    </tr>
+  </table>
+  </div>
+
+<div class="HTML Table Colgroup" style="table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }">
+  <h2>Hide Columns: PhamAnhDuc-2121051327</h2>
+  <p>You can hide specific columns with the visibility property:: PhamAnhDuc-2121051327</p>
+  
+  <table style="width: 100%;">
+  <colgroup>
+      <col span="2">
+      <col span="3" style="visibility: collapse">
+    </colgroup>
+  <tr>
+  <th>MON: PhamAnhDuc-2121051327</th>
+  <th>TUE: PhamAnhDuc-2121051327</th>
+  <th>WED: PhamAnhDuc-2121051327</th>
+  <th>THU: PhamAnhDuc-2121051327</th>
+  <th>FRI: PhamAnhDuc-2121051327</th>
+  <th>SAT: PhamAnhDuc-2121051327</th>
+  <th>SUN: PhamAnhDuc-2121051327</th>
+  </tr>
+  <tr>
+  <td>1: PhamAnhDuc-2121051327</td>
+  <td>2: PhamAnhDuc-2121051327</td>
+  <td>3: PhamAnhDuc-2121051327</td>
+  <td>4: PhamAnhDuc-2121051327</td>
+  <td>5: PhamAnhDuc-2121051327</td>
+  <td>6: PhamAnhDuc-2121051327</td>
+  <td>7: PhamAnhDuc-2121051327</td>
+  </tr>
+  <tr>
+  <td>8: PhamAnhDuc-2121051327</td>
+  <td>9: PhamAnhDuc-2121051327</td>
+  <td>10: PhamAnhDuc-2121051327</td>
+  <td>11: PhamAnhDuc-2121051327</td>
+  <td>12: PhamAnhDuc-2121051327</td>
+  <td>13: PhamAnhDuc-2121051327</td>
+  <td>14: PhamAnhDuc-2121051327</td>
+  </tr>
+  <tr>
+  <td>15: PhamAnhDuc-2121051327</td>
+  <td>16: PhamAnhDuc-2121051327</td>
+  <td>17: PhamAnhDuc-2121051327</td>
+  <td>18: PhamAnhDuc-2121051327</td>
+  <td>19: PhamAnhDuc-2121051327</td>
+  <td>20: PhamAnhDuc-2121051327</td>
+  <td>21: PhamAnhDuc-2121051327</td>
+  </tr>
+  <tr>
+  <td>22: PhamAnhDuc-2121051327</td>
+  <td>23: PhamAnhDuc-2121051327</td>
+  <td>24: PhamAnhDuc-2121051327</td>
+  <td>25: PhamAnhDuc-2121051327</td>
+  <td>26: PhamAnhDuc-2121051327</td>
+  <td>27: PhamAnhDuc-2121051327</td>
+  <td>28: PhamAnhDuc-2121051327</td>
+  </tr>
+  </table>
+  
+  <p><b>Note:</b> The table columns does not collapse properly in Safari browsers.: PhamAnhDuc-2121051327</p></div>
+
+<div class="HTML Lists">
+    <h2>A Description List: PhamAnhDuc-2121051327</h2>
+
+<dl>
+  <dt>Coffee: PhamAnhDuc-2121051327</dt>
+  <dd>- black hot drink: PhamAnhDuc-2121051327</dd>
+  <dt>Milk</dt>
+  <dd>- white cold drink: PhamAnhDuc-2121051327</dd>
+</dl>
+</div>
+
+<div class="HTML Unordered Lists" style="ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111111;
+  }">
+  <h2>Navigation Menu: PhamAnhDuc-2121051327</h2>
+  <p>In this example, we use CSS to style the list horizontally, to create a navigation menu:: PhamAnhDuc-2121051327</p>
+  
+  <ul>
+    <li><a href="#home">Home: PhamAnhDuc-2121051327</a></li>
+    <li><a href="#news">News: PhamAnhDuc-2121051327</a></li>
+    <li><a href="#contact">Contact: PhamAnhDuc-2121051327</a></li>
+    <li><a href="#about">About: PhamAnhDuc-2121051327</a></li>
+  </ul></div>
+
+<div class="HTML Ordered Lists">
+    <h2>A Nested List: PhamAnhDuc-2121051327</h2>
+<p>Lists can be nested (list inside list): PhamAnhDuc-2121051327:</p>
+
+<ol>
+  <li>Coffee: PhamAnhDuc-2121051327</li>
+  <li>Tea: PhamAnhDuc-2121051327
+    <ol>
+      <li>Black tea: PhamAnhDuc-2121051327</li>
+      <li>Green tea: PhamAnhDuc-2121051327</li>
+    </ol>
+  </li>
+  <li>Milk: PhamAnhDuc-2121051327</li>
+</ol>
+
+</div>
+
+<div class="HTML Other Lists">
+    <h2>A Description List: PhamAnhDuc-2121051327</h2>
+
+<dl>
+  <dt>Coffee: PhamAnhDuc-2121051327</dt>
+  <dd>- black hot drink: PhamAnhDuc-2121051327</dd>
+  <dt>Milk: PhamAnhDuc-2121051327</dt>
+  <dd>- white cold drink: PhamAnhDuc-2121051327</dd>
+</dl>
+
+</div>
+
+<div class="HTML Block and Inline Elements">
+    <h1>The span element: PhamAnhDuc-2121051327</h1>
+
+<p>My mother has <span style="color:blue;font-weight:bold;">blue</span> eyes and my father has <span style="color:darkolivegreen;font-weight:bold;">dark green</span> eyes.: PhamAnhDuc-2121051327</p>
+
+</div>
+
+<div class="HTML Div Element" style="div {
+    background-color: #FFF4A3;
+  }">
+  <h1>HTML DIV Example: PhamAnhDuc-2121051327</h1>
+
+  Lorem Ipsum <div>I am a div</div> dolor sit amet.: PhamAnhDuc-2121051327
+  
+  <p>The yellow background is added to demonstrate the footprint of the DIV element.: PhamAnhDuc-2121051327</p></div>
+
+<div class="HTML class Attribute">
+    <h2>Use of The class Attribute in JavaScript: PhamAnhDuc-2121051327</h2>
+<p>Click the button to hide all elements with class name "city":: PhamAnhDuc-2121051327</p>
+
+<button onclick="myFunction()">Hide elements: PhamAnhDuc-2121051327</button>
+
+<h2 class="city">London</h2>
+<p>London is the capital of England.: PhamAnhDuc-2121051327</p>
+
+<h2 class="city">Paris</h2>
+<p>Paris is the capital of France.: PhamAnhDuc-2121051327</p>
+
+<h2 class="city">Tokyo</h2>
+<p>Tokyo is the capital of Japan.: PhamAnhDuc-2121051327</p>
+
+<script>
+function myFunction() {
+  var x = document.getElementsByClassName("city");
+  for (var i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+}
+</script>
+</div>
+
+<div class="HTML id Attribute">
+    <h2>Using The id Attribute in JavaScript: PhamAnhDuc-2121051327</h2>
+<p>JavaScript can access an element with a specified id by using the getElementById() method:: PhamAnhDuc-2121051327: PhamAnhDuc-2121051327</p>
+
+<h1 id="myHeader">Hello World!: PhamAnhDuc-2121051327</h1>
+<button onclick="displayResult()">Change text: PhamAnhDuc-2121051327</button>
+
+<script>
+function displayResult() {
+  document.getElementById("myHeader").innerHTML = "Have a nice day!";
+}
+</script>
+
+</div>
+
+<div class="HTML Iframes">
+    <h2>Iframe - Target for a Link</h2>
+
+<iframe src="demo_iframe.htm" name="iframe_a" height="300px" width="100%" title="Iframe Example"></iframe>
+
+<p><a href="https://www.w3schools.com" target="iframe_a">W3Schools.com: PhamAnhDuc-2121051327/a></p>
+
+<p>When the target attribute of a link matches the name of an iframe, the link will open in the iframe.: PhamAnhDuc-2121051327</p>
+</div>
+
+<div class="HTML JavaScript"><p id="demo"></p>
+
+    <script>
+    document.getElementById("demo").innerHTML = "Hello JavaScript!";
+    </script>
+    
+    <noscript>Sorry, your browser does not support JavaScript!: PhamAnhDuc-2121051327</noscript>
+    
+    <p>A browser without support for JavaScript will show the text written inside the noscript element.: PhamAnhDuc-2121051327</p></div>
+
+<div class="HTML File Paths">
+    <h2>Using a Relative File Path: PhamAnhDuc-2121051327</h2>
+<img src="../images/picture.jpg" alt="Mountain" style="width:300px">
+<h2>Using a Relative File Path: PhamAnhDuc-2121051327</h2>
+<img src="images/picture.jpg" alt="Mountain" style="width:300px">
+
+</div>
+
+<div class="HTML - The Head Element">
+    <h1>The base element: PhamAnhDuc-2121051327</h1>
+
+<p><img src="images/stickman.gif" width="24" height="39" alt="Stickman"> - Notice that we have only specified a relative address for the image. Since we have specified a base URL in the head section, the browser will look for the image at "https://www.w3schools.com/images/stickman.gif".: PhamAnhDuc-2121051327</p>
+
+<p><a href="tags/tag_base.asp">HTML base tag</a> - Notice that the link opens in a new window, even if it has no target="_blank" attribute. This is because the target attribute of the base element is set to "_blank".: PhamAnhDuc-2121051327</p>
+
+</div>
+
+<div class="HTML Layout Elements and Techniques" style="* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Style the header */
+  header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+  
+  /* Container for flexboxes */
+  section {
+    display: -webkit-flex;
+    display: flex;
+  }
+  
+  /* Style the navigation menu */
+  nav {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background: #ccc;
+    padding: 20px;
+  }
+  
+  /* Style the list inside the menu */
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Style the content */
+  article {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
+  
+  /* Style the footer */
+  footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+  
+  /* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+  @media (max-width: 600px) {
+    section {
+      -webkit-flex-direction: column;
+      flex-direction: column;
+    }
+  }">
+  <h2>CSS Layout Flexbox: PhamAnhDuc-2121051327</h2>
+  <p>In this example, we have created a header, two columns/boxes and a footer. On smaller screens, the columns will stack on top of each other.: PhamAnhDuc-2121051327</p>
+  <p>Resize the browser window to see the responsive effect.: PhamAnhDuc-2121051327</p>
+  
+  <header>
+    <h2>Cities: PhamAnhDuc-2121051327</h2>
+  </header>
+  
+  <section>
+    <nav>
+      <ul>
+        <li><a href="#">London: PhamAnhDuc-2121051327</a></li>
+        <li><a href="#">Paris: PhamAnhDuc-2121051327</a></li>
+        <li><a href="#">Tokyo: PhamAnhDuc-2121051327</a></li>
+      </ul>
+    </nav>
+    
+    <article>
+      <h1>London: PhamAnhDuc-2121051327</h1>
+      <p>London is the capital city of England. It is the most populous city in the  United Kingdom, with a metropolitan area of over 13 million inhabitants: PhamAnhDuc-2121051327.</p>
+      <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.: PhamAnhDuc-2121051327</p>
+    </article>
+  </section>
+  
+  <footer>
+    <p>Footer: PhamAnhDuc-2121051327</p>
+  </footer>
+  </div>
+
+<div class="HTML Responsive Web Design">
+    <div class="container-fluid p-5 bg-primary text-white text-center">
+        <h1>My First Bootstrap Page: PhamAnhDuc-2121051327</h1>
+        <p>Resize this responsive page to see the effect!: PhamAnhDuc-2121051327</p> 
+      </div>
+        
+      <div class="container mt-5">
+        <div class="row">
+          <div class="col-sm-4">
+            <h3>Column 1: PhamAnhDuc-2121051327</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...: PhamAnhDuc-2121051327</p>
+            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...: PhamAnhDuc-2121051327</p>
+          </div>
+          <div class="col-sm-4">
+            <h3>Column 2: PhamAnhDuc-2121051327</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...: PhamAnhDuc-2121051327</p>
+            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...: PhamAnhDuc-2121051327</p>
+          </div>
+          <div class="col-sm-4">
+            <h3>Column 3: PhamAnhDuc-2121051327</h3>        
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...: PhamAnhDuc-2121051327</p>
+            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...: PhamAnhDuc-2121051327</p>
+          </div>
+        </div>
+      </div>
+</div>
+
+<div class="HTML Computer Code Elements">
+    <h2>The var Element: PhamAnhDuc-2121051327</h2>
+
+<p>The area of a triangle is: 1/2 x <var>b</var> x <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.: PhamAnhDuc-2121051327</p>
+</div>
+
+<div class="HTML Semantic Elements">
+    <h2>Places to Visit: PhamAnhDuc-2121051327</h2>
+
+<p>Puglia's most famous sight is the unique conical houses (Trulli) found in the area around Alberobello, a declared UNESCO World Heritage Site.: PhamAnhDuc-2121051327</p>
+
+<figure>
+  <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.: PhamAnhDuc-2121051327</figcaption>
+</figure>
+</div>
+
+<div class="HTML Style Guide">
+    <p id="Demo">This is paragraph 1.: PhamAnhDuc-2121051327</p>
+<p id="demo">This is paragraph 2.: PhamAnhDuc-2121051327</p>
+
+<script>
+// Only paragraph 2 will be overwritten
+document.getElementById("demo").innerHTML = "HELLO.";
+</script>
+</div>
+
+<div class="HTML Entities">
+    <h1>HTML Special Character Example: PhamAnhDuc-2121051327</h1>
+
+<h2>An o with a tilde: o&#771;</h2>
+</div>
+
+<div class="HTML Symbols">
+    <h1>HTML Entity Example: PhamAnhDuc-2121051327</h1>
+
+<h2>The black-heart symbol:: PhamAnhDuc-2121051327 &hearts;</h2>
+</div>
+
+<div class="Using Emojis in HTML">
+    <h1>HTML Emoji Example: PhamAnhDuc-2121051327</h1>
+
+<h2>&#128517;</h2>
+</div>
+
+<div class="HTML Encoding"></div>
+
+<div class="HTML Uniform Resource Locators"></div>
+
+<div class="HTML Versus XHTML"></div>
+
+<div class="HTML Forms">
+    <h2>HTML Forms: PhamAnhDuc-2121051327</h2>
+
+<form action="/action_page.php">
+  <label for="fname">First name:: PhamAnhDuc-2121051327</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:: PhamAnhDuc-2121051327</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".: PhamAnhDuc-2121051327</p>
+</div>
+
+<div class="HTML Form Attributes">
+    <h2>HTML Forms: PhamAnhDuc-2121051327</h2>
+
+<form action="/action_page.php">
+  <label for="fname">First name:: PhamAnhDuc-2121051327</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".: PhamAnhDuc-2121051327</p>
+</div>
+
+<div class="HTML Form Elements">
+    <h2>The output Element</h2>
+<p>The output element represents the result of a calculation.: PhamAnhDuc-2121051327</p>
+
+<form action="/action_page.php"
+oninput="x.value=parseInt(a.value)+parseInt(b.value)">
+  0
+  <input type="range" id="a" name="a" value="50">
+  100 +
+  <input type="number" id="b" name="b" value="50">
+  =
+  <output name="x" for="a b"></output>
+  <br><br>
+  <input type="submit">
+</form>
+</div>
+
+<div class="HTML Input Types">
+    <h1>Display a Week Input Control: PhamAnhDuc-2121051327</h1>
+
+<p>The <strong>input type="week"</strong> allows the user to select a week and year.: PhamAnhDuc-2121051327</p>
+
+<p>If the browser supports it, a date picker pops up when entering the input field.: PhamAnhDuc-2121051327</p>
+
+<form action="/action_page.php">
+  <label for="week">Select a week:: PhamAnhDuc-2121051327</label>
+  <input type="week" id="week" name="week">
+  <input type="submit" value="Submit">
+</form>
+
+<p><strong>Note:</strong> type="week" is not supported in Firefox, Safari or Internet Explorer 11.: PhamAnhDuc-2121051327</p>
+</div>
+
+<div class="HTML Input Attributes"><h1>The autocomplete attribute:PhamAnhDuc-2121051327</h1>
+
+    <p>The autocomplete attribute specifies whether or not an input field should have autocomplete enabled.: PhamAnhDuc-2121051327/p>
+    
+    <p>Fill in and submit the form, then reload the page to see how autocomplete works.: PhamAnhDuc-2121051327</p>
+    
+    <p>Notice that autocomplete is "on" for the form, but "off" for the e-mail field!: PhamAnhDuc-2121051327</p>
+    
+    <form action="/action_page.php" autocomplete="on">
+      <label for="fname">First name::PhamAnhDuc-2121051327</label>
+      <input type="text" id="fname" name="fname"><br><br>
+      <label for="lname">Last name::PhamAnhDuc-2121051327</label>
+      <input type="text" id="lname" name="lname"><br><br>
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" autocomplete="off"><br><br>
+      <input type="submit" value="Submit">
+    </form></div>
+
+<div class="HTML Input form* Attributes">
+    <h1>The form novalidate attribute: PhamAnhDuc-2121051327</h1>
+
+<p>The novalidate attribute specifies that the form data should not be validated when submitted.: PhamAnhDuc-2121051327</p>
+
+<form action="/action_page.php" novalidate>
+  <label for="email">Enter your email:: PhamAnhDuc-2121051327</label>
+  <input type="email" id="email" name="email" required><br><br>
+  <input type="submit" value="Submit">
+</form>
+</div>
 </body>
 </html>
